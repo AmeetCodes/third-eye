@@ -1,0 +1,1 @@
+﻿app/(action)/satya-tathya/board/page.tsx(4,24): error TS2307: Cannot find module '@/app/components/AnonymousAvatar' or its corresponding type declarations.

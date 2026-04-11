@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "title": "HIGHLIGHTS OF FEDERAL BUDGET OF NEPAL FISCAL YEAR 2082/83 (2025/26)",
+    "publisher": "THE INSTITUTE OF CHARTERED ACCOUNTANTS OF NEPAL",
+    "presentation_date": "29th May 2025 (2082 Jeshita 15)",
+    "presenter": "Mr. Bishnu Prasad Paudel"
+  },
+  "summary": {
+    "objectives": ["Entrepreneurship", "Employment", "Production", "Infrastructure investment", "Good governance", "Corruption control"],
+    "economic_growth_target": "6.5% - 7.5%",
+    "inflation_target": "6.0%",
+    "comparison": {
+      "revenue": { "current": 1315.00, "revised": 1127.87 },
+      "foreign_grants": { "current": 53.45, "revised": 34.89 },
+      "loans_borrowing": { "current": 595.66, "revised": 499.60 },
+      "total_source": { "current": 1964.11, "revised": 1662.36 },
+      "recurring_expenditures": { "current": 1180.98, "revised": 1009.93 },
+      "capital_expenditures": { "current": 407.89, "revised": 293.93 },
+      "debt_financing": { "current": 375.24, "revised": 358.53 },
+      "total_application": { "current": 1964.11, "revised": 1662.36 }
+    }
+  },
+  "ministry_allocations": [
+    { "ministry": "Office of the Prime Minister and Council of Ministers", "central": 64932.00, "total": 64932.00, "percentage": 0.33 },
+    { "ministry": "Ministry of Finance", "central": 494141.00, "province": 4842.00, "local": 43.00, "total": 499026.00, "percentage": 2.54 },
+    { "ministry": "Ministry of Industry, Commerce and Supplies", "central": 91321.00, "local": 10060.00, "total": 101381.00, "percentage": 0.52 },
+    { "ministry": "Ministry of Energy, Water Resources and Irrigation", "central": 847382.00, "province": 10368.00, "local": 2338.00, "total": 860088.00, "percentage": 4.38 },
+    { "ministry": "Ministry of Law, Justice and Parliamentary Affairs", "central": 5356.00, "total": 5356.00, "percentage": 0.03 },
+    { "ministry": "Ministry of Agriculture and Livestock Development", "central": 527211.00, "province": 17530.00, "local": 30053.00, "total": 574794.00, "percentage": 2.93 },
+    { "ministry": "Ministry of Water Supply", "central": 296670.00, "province": 6972.00, "local": 35307.00, "total": 338949.00, "percentage": 1.73 },
+    { "ministry": "Ministry of Home Affairs", "central": 2082479.00, "local": 3765.00, "total": 2086244.00, "percentage": 10.62 },
+    { "ministry": "Ministry of Culture, Tourism and Civil Aviation", "central": 131464.00, "local": 1334.00, "total": 132798.00, "percentage": 0.68 },
+    { "ministry": "Ministry of Foreign Affairs", "central": 78481.00, "total": 78481.00, "percentage": 0.40 },
+    { "ministry": "Ministry of Forests and Environment", "central": 142488.00, "province": 39092.00, "local": 4548.00, "total": 186128.00, "percentage": 0.95 },
+    { "ministry": "Ministry of Land Management, Cooperatives and Poverty Alleviation", "central": 73227.00, "local": 1709.00, "total": 74936.00, "percentage": 0.38 },
+    { "ministry": "Ministry of Physical Infrastructure and Transport", "central": 1519953.00, "total": 1519953.00, "percentage": 7.74 },
+    { "ministry": "Ministry of Women, Children and Senior Citizen", "central": 15277.00, "province": 871.00, "local": 4661.00, "total": 20809.00, "percentage": 0.11 },
+    { "ministry": "Ministry of Youth and Sports", "central": 57174.00, "province": 900.00, "local": 2700.00, "total": 60774.00, "percentage": 0.31 },
+    { "ministry": "Ministry of Defense", "central": 620121.00, "total": 620121.00, "percentage": 3.16 },
+    { "ministry": "Ministry of Urban Development", "central": 925382.00, "province": 98962.00, "local": 159100.00, "total": 1183444.00, "percentage": 6.03 },
+    { "ministry": "Ministry of Education, Science and Technology", "central": 605617.00, "province": 49264.00, "local": 1456788.00, "total": 2111669.00, "percentage": 10.75 },
+    { "ministry": "Ministry of Information and Communications", "central": 77199.00, "total": 77199.00, "percentage": 0.39 },
+    { "ministry": "Ministry of Federal Affairs and General Administration", "central": 72678.00, "province": 12946.00, "local": 33253.00, "total": 118877.00, "percentage": 0.61 },
+    { "ministry": "Ministry of Health and Population", "central": 553919.00, "province": 60537.00, "local": 343618.00, "total": 958074.00, "percentage": 4.88 },
+    { "ministry": "Ministry of Labor, Employment and Social Security", "central": 16310.00, "province": 1255.00, "local": 25283.00, "total": 42848.00, "percentage": 0.22 },
+    { "ministry": "Others", "central": 6164068.00, "province": 672065.00, "local": 1088086.00, "total": 7924219.00, "percentage": 40.35 }
+  ],
+  "tax_highlights": [
+    { "highlight": "75% tax exemption on IT service exports", "type": "incentive", "sector": "IT" },
+    { "highlight": "100% tax exemption for startups up to 10 crore for 5 years", "type": "incentive", "sector": "Startup" },
+    { "highlight": "1% custom duty on timber processing machinery", "type": "incentive", "sector": "Timber" },
+    { "highlight": "1% custom duty on stadium construction materials", "type": "incentive", "sector": "Sports" },
+    { "highlight": "Income tax exemption for green hydrogen industries (5 years)", "type": "incentive", "sector": "Energy" },
+    { "highlight": "1% custom duty on EV charging machine equipment", "type": "incentive", "sector": "EV" },
+    { "highlight": "2% Luxury Tax on 5-star hotels and luxury resorts", "type": "burden", "sector": "Tourism" },
+    { "highlight": "2% Luxury Tax on imported liquors", "type": "burden", "sector": "Luxury Goods" },
+    { "highlight": "2% Luxury Tax on gold and gold ornaments", "type": "burden", "sector": "Luxury Goods" },
+    { "highlight": "2% Digital Service Tax on non-resident electronic services", "type": "burden", "sector": "Digital" }
+  ]
+}
